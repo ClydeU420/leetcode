@@ -64,10 +64,10 @@ class Solution(object):
                 print(num)
                 return (float(lastnum)+float(num))/2            
 
-def main(): 
-    nums1=[1]
-    nums2=[]
-    so=Solution
-    print(so.findMedianSortedArrays(so,nums1,nums2))
-if __name__=="__main__": 
-    main() 
+# def main(): 
+#     nums1=[1]
+#     nums2=[]
+#     so=Solution
+#     print(so.findMedianSortedArrays(so,nums1,nums2))
+# if __name__=="__main__": 
+#     main() 
